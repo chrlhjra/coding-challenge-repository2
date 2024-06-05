@@ -12,5 +12,3 @@ The solution uses dynamic programming. It creates a list `dp` where `dp[i]` repr
 3. Open a terminal or command prompt and navigate to the directory where the file is saved.
 4. Run the following command to execute the code: python longest_subsequence.py
 5. The program will output the length of the longest increasing subsequence for the given list of numbers.
-
-make it concise and easy to comprehend
